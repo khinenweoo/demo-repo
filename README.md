@@ -1,4 +1,3 @@
-#Demo file
+# Demo file
 
-
-some description
+Some description statements
